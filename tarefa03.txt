@@ -1,0 +1,11 @@
+Nome: Larissa de Oliveira penteado
+NUSP: 8941338
+
+- Autoteste
+Teste de autoestudo - Imagens sintéticas usando indices e meshgrid Score: 100
+
+-Programas
+Programa: Geração imagem rampa	Score: 100 100
+Programa: Geração imagem X	Score: 100
+
+-Teste do módulo 2
