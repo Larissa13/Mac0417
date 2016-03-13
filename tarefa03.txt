@@ -3,10 +3,14 @@ NUSP: 8941338
 
 - Autoteste
 Teste de autoestudo - Imagens sintéticas usando indices e meshgrid Score: 100
-Teste de autoestudo - Redução de eixo	Score: 100	
+Teste de autoestudo - Redução de eixo	 		  	   Score: 100	
+Teste de autoestudo - Histograma e estatísticas de uma imagem	   Score: 75 100
 
 -Programas
 Programa: Geração imagem rampa	Score: 100 100
 Programa: Geração imagem X	Score: 100
+Programa: Crop de uma imagem	Score: 100
 
 -Teste do módulo 2
+Teste múltipla escolha: Imagens sintéticas e Estatística (apenas uma
+tentativa) Score: 100
