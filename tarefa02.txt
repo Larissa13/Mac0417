@@ -2,12 +2,12 @@ Nome: Larissa de Oliveira Penteado
 NUSP: 8941338
 Score:
 - Autotestes
-1: 80 100
-2: 83 100
-3: 40 100
+1: Teste de autoestudo - Editando no Adessowiki: 80 100 100
+2: Teste de autoestudo - Python e tipos sequenciais: 83 100
+3: Tutorial: Processamento de imagens usando fatiamento do Numpy: 40 100
 -Programas
-1: 100
-2: 100
-3: 100
+1: Programa: Quadriculado sobreposto na imagem: 100 
+2: Programa: Função de geração de imagem com quadrados cinzas: 100
+3: Programa: Rotação 90 graus sentido horário: 100
 -Teste do módulo 1
-100
+Teste do Módulo (uma tentativa apenas): 90
