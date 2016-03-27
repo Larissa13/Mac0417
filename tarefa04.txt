@@ -2,9 +2,13 @@ Nome: Larissa de Oliveira penteado
 NUSP: 8941338
 
 Testes Autoestudo:
-
+Teste de autoestudo - Transformação de Intensidade	Score: 83 100
+Teste de autoestudo - Transformação geométrica		Score: 83 100
 
 Programas:
-Programa: Inserção tabela visualização	Score: 100
+Programa: Inserção tabela visualização		Score: 100
+Programa: Normalização por percentil	        Score: 100
+Programa: Aprimoramento da função iaffine	Score: 100
 
 Teste do Módulo 3:
+Teste múltipla escolha: Transformações de intensidade e geométricas (apenas uma tentativa)	Score: 90
