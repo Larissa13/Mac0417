@@ -1,0 +1,12 @@
+Nome: Larissa de Oliveira Penteado
+NUSP: 8941338
+
+Testes Autoestudo:
+Teste de autoestudo - Filtros lineares	Score: 80 100
+Teste de autoestudo - LBP		Score: 100
+
+Programas:
+Programa: Translação periódica	Score: 100
+Programa: Operador Sobel	Score: 100
+
+Teste do Módulo 4:
