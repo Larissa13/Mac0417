@@ -10,3 +10,4 @@ Programa: Translação periódica	Score: 100
 Programa: Operador Sobel	Score: 100
 
 Teste do Módulo 4:
+Teste 4 múltipla escolha: Operadores de vizinhança (uma única tentativa)	Score: 80
