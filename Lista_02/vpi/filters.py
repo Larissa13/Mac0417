@@ -26,7 +26,10 @@ def convolve(image, kernel):
     return g[additional_size[0]:image_size[0]-additional_size[0],
              additional_size[1]:image_size[1]-additional_size[1]]
 
-
+        
+        
+        
+        
 def normalize(f, lmin=0.0, lmax=255.0):
     fmin, fmax  = f.min(), f.max()
     return ((lmax - lmin)/(fmax-fmin)) * (f - fmin) + lmin
