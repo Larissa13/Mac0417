@@ -25,10 +25,12 @@ def analyze_chess_game(image_directory):
         ymax = (y1[1].max()/60).astype(int)
         fromx, fromy = 0, 0
         tox, toy = 0,0
-        if i%2==1:
+        if i%2==1 or (str(board.board[xmax][ymax].piece_name) == ""):
+            print(str(board.board[xmin][ymin].piece_name))
             fromx, fromy = xmin, ymin
             tox, toy = xmax, ymax
         else:
+            print(str(board.board[xmax][ymax].piece_name))
             fromx, fromy = xmax, ymax
             tox, toy = xmin, ymin
         
@@ -43,3 +45,4 @@ def analyze_chess_game(image_directory):
 
 
     return game
+    
