@@ -25,7 +25,9 @@ def analyze_chess_game(image_directory):
         ymax = (y1[1].max()/60).astype(int)
         fromx, fromy = 0, 0
         tox, toy = 0,0
-        if i%2==1 or (str(board.board[xmax][ymax].piece_name) == ""):
+        white = str(board.board[xmin][ymin].piece_name)
+        black = str(board.board[xmax][ymax].piece_name)
+        if (i%2==1 and (not (white == ""))) or (black == ""):
             print(str(board.board[xmin][ymin].piece_name))
             fromx, fromy = xmin, ymin
             tox, toy = xmax, ymax
